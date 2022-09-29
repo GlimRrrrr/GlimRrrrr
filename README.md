@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 > Greatness embraces intrinsic mysteries
 
 
-[](./image.jpeg)
+![](./image.jpeg)
